@@ -8,6 +8,6 @@ app_port: 8501
 tags:
   - streamlit
 pinned: false
-short_description: Wellness Tourism Purchase Prediction App using Streamlit and Docker
+short_description: Wellness Tourism Purchase Prediction
 ---
 
