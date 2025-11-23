@@ -29,7 +29,7 @@ def main():
         create_repo(
             repo_id=SPACE_REPO_ID,
             repo_type=SPACE_REPO_TYPE,
-            space_sdk="streamlit", 
+            space_sdk="docker", 
             private=False,
             token=token,
         )
